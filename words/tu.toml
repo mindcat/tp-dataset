@@ -1,6 +1,9 @@
 lemma = "tu"
 sitelenpona = [ "󱥮" ]
 
+origin.iso = ""
+origin.word = ""
+
 [categories]
 semantic = [ "counting" ]
 

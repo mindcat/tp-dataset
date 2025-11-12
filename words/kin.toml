@@ -1,6 +1,9 @@
 lemma = "kin"
 sitelenpona = [ "󱥹" ]
 
+origin.iso = ""
+origin.word = ""
+
 [categories]
 semantic = [ "connection" ]
 

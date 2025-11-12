@@ -1,6 +1,9 @@
 lemma = "wile"
 sitelenpona = [ "󱥷" ]
 
+origin.iso = ""
+origin.word = ""
+
 [categories]
 semantic = [ "necessities", "ideas" ]
 

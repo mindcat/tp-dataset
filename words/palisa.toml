@@ -1,6 +1,9 @@
 lemma = "palisa"
 sitelenpona = [ "󱥊" ]
 
+origin.iso = ""
+origin.word = ""
+
 [categories]
 semantic = [ "things" ]
 

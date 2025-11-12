@@ -1,6 +1,9 @@
 lemma = "o"
 sitelenpona = [ "󱥄" ]
 
+origin.iso = ""
+origin.word = ""
+
 [categories]
 semantic = [ "evoke" ]
 

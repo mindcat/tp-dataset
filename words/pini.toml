@@ -1,6 +1,9 @@
 lemma = "pini"
 sitelenpona = [ "󱥐" ]
 
+origin.iso = ""
+origin.word = ""
+
 [categories]
 semantic = [ "state" ]
 

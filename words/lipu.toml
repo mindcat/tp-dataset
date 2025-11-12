@@ -1,6 +1,9 @@
 lemma = "lipu"
 sitelenpona = [ "󱤪" ]
 
+origin.iso = ""
+origin.word = ""
+
 [categories]
 semantic = [ "things" ]
 

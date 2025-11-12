@@ -1,6 +1,9 @@
 lemma = "ku"
 sitelenpona = [ "󱦈" ]
 
+origin.iso = ""
+origin.word = ""
+
 [categories]
 semantic = [ "activity" ]
 

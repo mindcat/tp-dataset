@@ -1,6 +1,9 @@
 lemma = "tan"
 sitelenpona = [ "󱥧" ]
 
+origin.iso = ""
+origin.word = ""
+
 [categories]
 semantic = [ "connection" ]
 

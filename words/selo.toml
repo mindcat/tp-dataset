@@ -1,6 +1,9 @@
 lemma = "selo"
 sitelenpona = [ "󱥘" ]
 
+origin.iso = ""
+origin.word = ""
+
 [categories]
 semantic = [ "locating", "body" ]
 

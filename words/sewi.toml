@@ -1,6 +1,9 @@
 lemma = "sewi"
 sitelenpona = [ "󱥚" ]
 
+origin.iso = ""
+origin.word = ""
+
 [categories]
 semantic = [ "locating", "ideas" ]
 

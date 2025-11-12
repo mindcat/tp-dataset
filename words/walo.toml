@@ -1,6 +1,9 @@
 lemma = "walo"
 sitelenpona = [ "󱥲" ]
 
+origin.iso = ""
+origin.word = ""
+
 [categories]
 semantic = [ "sight" ]
 

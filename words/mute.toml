@@ -1,6 +1,9 @@
 lemma = "mute"
 sitelenpona = [ "󱤼" ]
 
+origin.iso = ""
+origin.word = ""
+
 [categories]
 semantic = [ "counting" ]
 

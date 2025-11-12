@@ -1,6 +1,9 @@
 lemma = "nena"
 sitelenpona = [ "󱥀" ]
 
+origin.iso = ""
+origin.word = ""
+
 [categories]
 semantic = [ "body", "things" ]
 

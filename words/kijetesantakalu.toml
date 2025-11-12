@@ -1,6 +1,9 @@
 lemma = "kijetesantakalu"
 sitelenpona = [ "󱦀" ]
 
+origin.iso = ""
+origin.word = ""
+
 [categories]
 semantic = [ "critters" ]
 

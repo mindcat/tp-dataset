@@ -1,6 +1,9 @@
 lemma = "tawa"
 sitelenpona = [ "󱥩" ]
 
+origin.iso = ""
+origin.word = ""
+
 [categories]
 semantic = [ "state" ]
 

@@ -1,6 +1,9 @@
 lemma = "pipi"
 sitelenpona = [ "󱥑" ]
 
+origin.iso = ""
+origin.word = ""
+
 [categories]
 semantic = [ "critters" ]
 

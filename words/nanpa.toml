@@ -1,6 +1,9 @@
 lemma = "nanpa"
 sitelenpona = [ "󱤽" ]
 
+origin.iso = ""
+origin.word = ""
+
 [categories]
 semantic = [ "counting" ]
 

@@ -1,6 +1,9 @@
 lemma = "mun"
 sitelenpona = [ "󱤺" ]
 
+origin.iso = ""
+origin.word = ""
+
 [categories]
 semantic = [ "elements" ]
 

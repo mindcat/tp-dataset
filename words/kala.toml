@@ -1,6 +1,9 @@
 lemma = "kala"
 sitelenpona = [ "󱤔" ]
 
+origin.iso = ""
+origin.word = ""
+
 [categories]
 semantic = [ "critters" ]
 

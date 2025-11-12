@@ -1,6 +1,9 @@
 lemma = "esun"
 sitelenpona = [ "󱤋" ]
 
+origin.iso = ""
+origin.word = ""
+
 [categories]
 semantic = [ "necessities", "activity" ]
 

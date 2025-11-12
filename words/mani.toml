@@ -1,6 +1,9 @@
 lemma = "mani"
 sitelenpona = [ "󱤲" ]
 
+origin.iso = ""
+origin.word = ""
+
 [categories]
 semantic = [ "necessities" ]
 

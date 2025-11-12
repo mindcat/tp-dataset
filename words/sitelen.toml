@@ -1,6 +1,9 @@
 lemma = "sitelen"
 sitelenpona = [ "󱥠" ]
 
+origin.iso = ""
+origin.word = ""
+
 [categories]
 semantic = [ "sight", "activity" ]
 

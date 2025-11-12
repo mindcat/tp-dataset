@@ -1,6 +1,9 @@
 lemma = "su"
 sitelenpona = [ "su" ]
 
+origin.iso = ""
+origin.word = ""
+
 [categories]
 semantic = [ "activity" ]
 

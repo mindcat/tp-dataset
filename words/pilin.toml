@@ -1,6 +1,9 @@
 lemma = "pilin"
 sitelenpona = [ "󱥎" ]
 
+origin.iso = ""
+origin.word = ""
+
 [categories]
 semantic = [ "ideas", "body" ]
 

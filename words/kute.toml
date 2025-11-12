@@ -1,6 +1,9 @@
 lemma = "kute"
 sitelenpona = [ "󱤠" ]
 
+origin.iso = ""
+origin.word = ""
+
 [categories]
 semantic = [ "body" ]
 

@@ -1,6 +1,9 @@
 lemma = "tomo"
 sitelenpona = [ "󱥭" ]
 
+origin.iso = ""
+origin.word = ""
+
 [categories]
 semantic = [ "necessities" ]
 

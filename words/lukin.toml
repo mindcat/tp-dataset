@@ -1,6 +1,9 @@
 lemma = "lukin"
 sitelenpona = [ "󱤮" ]
 
+origin.iso = ""
+origin.word = ""
+
 [categories]
 semantic = [ "body", "sight" ]
 

@@ -1,6 +1,9 @@
 lemma = "open"
 sitelenpona = [ "󱥇" ]
 
+origin.iso = ""
+origin.word = ""
+
 [categories]
 semantic = [ "state" ]
 

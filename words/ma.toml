@@ -1,6 +1,9 @@
 lemma = "ma"
 sitelenpona = [ "󱤰" ]
 
+origin.iso = ""
+origin.word = ""
+
 [categories]
 semantic = [ "elements" ]
 
