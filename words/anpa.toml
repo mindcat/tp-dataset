@@ -1,6 +1,9 @@
 lemma = "anpa"
 sitelenpona = [ "󱤅" ]
 
+origin.iso = ""
+origin.word = ""
+
 [categories]
 semantic = [ "locating" ]
 

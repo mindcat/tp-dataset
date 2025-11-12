@@ -1,6 +1,9 @@
 lemma = "kili"
 sitelenpona = [ "󱤚" ]
 
+origin.iso = "ge"
+origin.word = "ხილი"
+
 [categories]
 semantic = [ "elements" ]
 

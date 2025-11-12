@@ -1,6 +1,9 @@
 lemma = "akesi"
 sitelenpona = [ "󱤁", "akesi2" ]
 
+origin.iso = "nl"
+origin.word = "hagedis"
+
 [categories]
 semantic = [ "critters" ]
 

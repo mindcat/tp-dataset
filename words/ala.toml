@@ -1,6 +1,9 @@
 lemma = "ala"
 sitelenpona = [ "󱤂" ]
 
+origin.iso = "ge"
+origin.word = "არა"
+
 [categories]
 semantic = [ "counting" ]
 

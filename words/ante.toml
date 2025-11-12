@@ -1,6 +1,9 @@
 lemma = "ante"
 sitelenpona = [ "󱤆" ]
 
+origin.iso = ""
+origin.word = ""
+
 [categories]
 semantic = [ "descriptions", "state" ]
 

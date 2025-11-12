@@ -1,6 +1,9 @@
 lemma = "anu"
 sitelenpona = [ "󱤇" ]
 
+origin.iso = ""
+origin.word = ""
+
 [categories]
 semantic = [ "connection" ]
 
