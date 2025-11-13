@@ -1,8 +1,8 @@
 lemma = "monsi"
 sitelenpona = [ "󱤸" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "CA"
+origin.word = "mon tchu"
 
 [categories]
 semantic = [ "locating", "body" ]

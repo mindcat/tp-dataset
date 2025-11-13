@@ -1,8 +1,8 @@
 lemma = "len"
 sitelenpona = [ "󱤥" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "CA"
+origin.word = "linge"
 
 [categories]
 semantic = [ "necessities" ]

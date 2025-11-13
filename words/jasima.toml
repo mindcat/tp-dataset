@@ -1,8 +1,8 @@
 lemma = "jasima"
 sitelenpona = [ "󱥿" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "TU"
+origin.word = "yansıtmak"
 
 [categories]
 semantic = [ "ideas" ]

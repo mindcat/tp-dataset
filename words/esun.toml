@@ -1,8 +1,8 @@
 lemma = "esun"
 sitelenpona = [ "󱤋" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "GH"
+origin.word = "edwamu"
 
 [categories]
 semantic = [ "necessities", "activity" ]

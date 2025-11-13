@@ -1,8 +1,8 @@
 lemma = "moli"
 sitelenpona = [ "󱤷" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "CA"
+origin.word = "mourir"
 
 [categories]
 semantic = [ "ideas" ]

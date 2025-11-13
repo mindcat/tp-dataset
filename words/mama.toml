@@ -1,8 +1,8 @@
 lemma = "mama"
 sitelenpona = [ "󱤱" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "GE"
+origin.word = "მამა"
 
 [categories]
 semantic = [ "people" ]

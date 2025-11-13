@@ -1,8 +1,8 @@
 lemma = "linja"
 sitelenpona = [ "󱤩" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "FI"
+origin.word = "linja"
 
 [categories]
 semantic = [ "things" ]

@@ -1,8 +1,8 @@
 lemma = "meli"
 sitelenpona = [ "󱤳" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "PG"
+origin.word = "meri"
 
 [categories]
 semantic = [ "people" ]

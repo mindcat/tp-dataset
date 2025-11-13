@@ -1,8 +1,8 @@
 lemma = "jaki"
 sitelenpona = [ "󱤐" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "US"
+origin.word = "yucky"
 
 [categories]
 semantic = [ "descriptions" ]

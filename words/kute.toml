@@ -1,8 +1,8 @@
 lemma = "kute"
 sitelenpona = [ "󱤠" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "CA"
+origin.word = "écouter"
 
 [categories]
 semantic = [ "body" ]

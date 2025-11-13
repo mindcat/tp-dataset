@@ -1,8 +1,8 @@
 lemma = "ale"
 sitelenpona = [ "󱤄" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "NL"
+origin.word = "alle"
 
 [categories]
 semantic = [ "counting" ]

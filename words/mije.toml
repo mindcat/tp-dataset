@@ -1,8 +1,8 @@
 lemma = "mije"
 sitelenpona = [ "󱤵" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "FI"
+origin.word = "mies"
 
 [categories]
 semantic = [ "people" ]

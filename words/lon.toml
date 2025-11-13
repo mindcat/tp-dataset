@@ -1,8 +1,8 @@
 lemma = "lon"
 sitelenpona = [ "󱤬" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "PG"
+origin.word = "long"
 
 [categories]
 semantic = [ "locating", "connection" ]

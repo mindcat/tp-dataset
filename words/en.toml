@@ -1,8 +1,8 @@
 lemma = "en"
 sitelenpona = [ "󱤊" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "NL"
+origin.word = "en"
 
 [categories]
 semantic = [ "connection" ]

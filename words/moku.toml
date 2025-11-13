@@ -1,8 +1,8 @@
 lemma = "moku"
 sitelenpona = [ "󱤶" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "JP"
+origin.word = "モグモグ"
 
 [categories]
 semantic = [ "necessities" ]

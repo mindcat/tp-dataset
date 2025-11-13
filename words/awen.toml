@@ -1,8 +1,8 @@
 lemma = "awen"
 sitelenpona = [ "󱤈" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "NL"
+origin.word = "houden"
 
 [categories]
 semantic = [ "state" ]

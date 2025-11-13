@@ -1,8 +1,8 @@
 lemma = "ike"
 sitelenpona = [ "󱤍" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "FI"
+origin.word = "ilkeä"
 
 [categories]
 semantic = [ "descriptions" ]

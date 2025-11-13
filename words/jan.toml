@@ -1,8 +1,8 @@
 lemma = "jan"
 sitelenpona = [ "󱤑" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "HK"
+origin.word = "人"
 
 [categories]
 semantic = [ "people" ]

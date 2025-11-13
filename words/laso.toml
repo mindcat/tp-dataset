@@ -1,8 +1,8 @@
 lemma = "laso"
 sitelenpona = [ "󱤣" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "GB"
+origin.word = "glas"
 
 [categories]
 semantic = [ "sight" ]

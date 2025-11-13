@@ -1,8 +1,8 @@
 lemma = "kon"
 sitelenpona = [ "󱤝" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "CN"
+origin.word = "空氣"
 
 [categories]
 semantic = [ "elements" ]

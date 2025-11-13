@@ -1,8 +1,8 @@
 lemma = "kalama"
 sitelenpona = [ "󱤕" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "RS"
+origin.word = "галама"
 
 [categories]
 semantic = [ "activity" ]

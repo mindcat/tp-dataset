@@ -1,8 +1,8 @@
 lemma = "namako"
 sitelenpona = [ "󱥸" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "IN"
+origin.word = "नमक"
 
 [categories]
 semantic = [ "things", "descriptions" ]

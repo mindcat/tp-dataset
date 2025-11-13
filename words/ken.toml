@@ -1,8 +1,8 @@
 lemma = "ken"
 sitelenpona = [ "󱤘" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "PG"
+origin.word = "ken"
 
 [categories]
 semantic = [ "state" ]

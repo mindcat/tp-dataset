@@ -1,8 +1,8 @@
 lemma = "ko"
 sitelenpona = [ "󱤜" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "HK"
+origin.word = "膏"
 
 [categories]
 semantic = [ "descriptions" ]
