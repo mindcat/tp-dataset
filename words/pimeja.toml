@@ -1,8 +1,8 @@
 lemma = "pimeja"
 sitelenpona = [ "󱥏" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "FI"
+origin.word = "pimeä"
 
 [categories]
 semantic = [ "sight" ]

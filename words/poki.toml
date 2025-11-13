@@ -1,12 +1,12 @@
 lemma = "poki"
 sitelenpona = [ "󱥓" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "PG"
+origin.word = "bokis"
 
 [categories]
 semantic = [ "things", "locating" ]
 
 [definitions]
-en = "container, bag, bowl, box, cup"
+en = "container, bag, bowl, box, cup, category"
 nl = "container, zak, kom, doos, beker"

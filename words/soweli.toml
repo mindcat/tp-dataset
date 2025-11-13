@@ -1,8 +1,8 @@
 lemma = "soweli"
 sitelenpona = [ "󱥢" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "GE"
+origin.word = "ცხოველი"
 
 [categories]
 semantic = [ "critters" ]

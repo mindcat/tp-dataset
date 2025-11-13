@@ -1,8 +1,8 @@
 lemma = "pilin"
 sitelenpona = [ "󱥎" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "PG"
+origin.word = "pilim"
 
 [categories]
 semantic = [ "ideas", "body" ]

@@ -1,8 +1,8 @@
 lemma = "sijelo"
 sitelenpona = [ "󱥛" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "RS"
+origin.word = "тијело"
 
 [categories]
 semantic = [ "body" ]

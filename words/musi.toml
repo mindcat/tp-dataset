@@ -1,8 +1,8 @@
 lemma = "musi"
 sitelenpona = [ "󱤻" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "FR"
+origin.word = "amuser"
 
 [categories]
 semantic = [ "ideas" ]

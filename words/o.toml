@@ -1,8 +1,8 @@
 lemma = "o"
 sitelenpona = [ "󱥄" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "GE"
+origin.word = "-ო"
 
 [categories]
 semantic = [ "evoke" ]

@@ -1,8 +1,8 @@
 lemma = "sin"
 sitelenpona = [ "󱥝" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "CN"
+origin.word = "新"
 
 [categories]
 semantic = [ "descriptions" ]

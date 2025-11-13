@@ -1,8 +1,8 @@
 lemma = "ni"
 sitelenpona = [ "󱥁" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "HK"
+origin.word = "呢"
 
 [categories]
 semantic = [ "locating" ]

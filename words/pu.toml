@@ -1,8 +1,8 @@
 lemma = "pu"
 sitelenpona = [ "󱥕" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "CN"
+origin.word = "樸"
 
 [categories]
 semantic = [ "activity" ]

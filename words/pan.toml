@@ -1,8 +1,8 @@
 lemma = "pan"
 sitelenpona = [ "󱥋" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "JP"
+origin.word = "パン"
 
 [categories]
 semantic = [ "necessities" ]

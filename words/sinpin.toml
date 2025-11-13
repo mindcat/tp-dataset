@@ -1,8 +1,8 @@
 lemma = "sinpin"
 sitelenpona = [ "󱥟" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "HK"
+origin.word = "前邊"
 
 [categories]
 semantic = [ "locating", "body" ]

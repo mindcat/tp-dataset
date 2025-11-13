@@ -1,8 +1,8 @@
 lemma = "nasa"
 sitelenpona = [ "󱤾" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "PG"
+origin.word = "nasau"
 
 [categories]
 semantic = [ "descriptions" ]

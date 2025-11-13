@@ -1,8 +1,8 @@
 lemma = "mun"
 sitelenpona = [ "󱤺" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "US"
+origin.word = "moon"
 
 [categories]
 semantic = [ "elements" ]

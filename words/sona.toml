@@ -1,8 +1,8 @@
 lemma = "sona"
 sitelenpona = [ "󱥡" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "GE"
+origin.word = "ცოდნა"
 
 [categories]
 semantic = [ "ideas" ]
