@@ -1,8 +1,8 @@
 lemma = "insa"
 sitelenpona = [ "󱤏" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "PG"
+origin.word = "insait"
 
 [categories]
 semantic = [ "locating", "body" ]
