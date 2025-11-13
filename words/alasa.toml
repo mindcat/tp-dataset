@@ -1,8 +1,8 @@
 lemma = "alasa"
 sitelenpona = [ "󱤃" ]
 
-origin.iso = "à la chasse"
-origin.word = "CA"
+origin.iso = "CA"
+origin.word = "à la chasse"
 
 [categories]
 semantic = [ "activity" ]
