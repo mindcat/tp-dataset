@@ -1,8 +1,8 @@
 lemma = "taso"
 sitelenpona = [ "󱥨" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "PG"
+origin.word = "tasol"
 
 [categories]
 semantic = [ "connection" ]

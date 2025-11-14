@@ -1,8 +1,8 @@
 lemma = "weka"
 sitelenpona = [ "󱥶" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "NL"
+origin.word = "weg"
 
 [categories]
 semantic = [ "locating", "state" ]

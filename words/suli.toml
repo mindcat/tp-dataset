@@ -1,8 +1,8 @@
 lemma = "suli"
 sitelenpona = [ "󱥣" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "FI"
+origin.word = "suuri"
 
 [categories]
 semantic = [ "descriptions" ]

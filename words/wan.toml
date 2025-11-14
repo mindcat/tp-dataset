@@ -1,8 +1,8 @@
 lemma = "wan"
 sitelenpona = [ "󱥳" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "US"
+origin.word = "one"
 
 [categories]
 semantic = [ "counting" ]

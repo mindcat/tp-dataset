@@ -1,0 +1,12 @@
+lemma = "meso"
+sitelenpona = [ "󱦂" ]
+
+origin.iso = "GR"
+origin.word = "μέσος"
+
+[categories]
+semantic = [ "locating"]
+
+[definitions]
+en = "midpoint, medium, mediocre;"
+nl = "" # unfinished

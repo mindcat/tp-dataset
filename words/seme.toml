@@ -1,8 +1,8 @@
 lemma = "seme"
 sitelenpona = [ "󱥙" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "CN"
+origin.word = "什麼"
 
 [categories]
 semantic = [ "connection" ]

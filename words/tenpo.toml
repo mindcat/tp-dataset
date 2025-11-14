@@ -1,8 +1,8 @@
 lemma = "tenpo"
 sitelenpona = [ "󱥫" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "SP"
+origin.word = "tempo"
 
 [categories]
 semantic = [ "state", "ideas" ]

@@ -1,8 +1,8 @@
 lemma = "uta"
 sitelenpona = [ "󱥰" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "RS"
+origin.word = "уста"
 
 [categories]
 semantic = [ "body" ]

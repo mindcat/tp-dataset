@@ -1,8 +1,8 @@
 lemma = "pona"
 sitelenpona = [ "󱥔" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "SP"
+origin.word = "bona"
 
 [categories]
 semantic = [ "descriptions" ]

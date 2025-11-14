@@ -1,8 +1,8 @@
 lemma = "wawa"
 sitelenpona = [ "󱥵" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "FI"
+origin.word = "vahva"
 
 [categories]
 semantic = [ "ideas" ]

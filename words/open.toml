@@ -2,7 +2,7 @@ lemma = "open"
 sitelenpona = [ "󱥇" ]
 
 origin.iso = "US"
-origin.word = "open"
+origin.word = ""
 
 [categories]
 semantic = [ "state" ]

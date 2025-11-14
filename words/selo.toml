@@ -1,8 +1,8 @@
 lemma = "selo"
 sitelenpona = [ "󱥘" ]
 
-origin.iso = "CN"
-origin.word = "什麼"
+origin.iso = "SP"
+origin.word = "ŝelo"
 
 [categories]
 semantic = [ "locating", "body" ]

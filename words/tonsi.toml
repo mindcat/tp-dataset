@@ -1,8 +1,8 @@
 lemma = "tonsi"
 sitelenpona = [ "󱥾" ]
 
-origin.iso = ""
-origin.word = ""
+origin.iso = "CN"
+origin.word = "同志"
 
 [categories]
 semantic = [ "people" ]
