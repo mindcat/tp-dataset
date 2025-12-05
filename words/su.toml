@@ -4,6 +4,16 @@ sitelenpona = [ "su" ]
 origin.iso = ""
 origin.word = ""
 
+[script]
+kanata = ""
+anku = ""
+sewijen = ""
+alapi = ""
+kililisa = ""
+elina = ""
+tewanakali = ""
+kijes = ""
+
 [categories]
 semantic = [ "activity" ]
 

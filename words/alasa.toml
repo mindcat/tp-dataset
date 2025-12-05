@@ -4,6 +4,16 @@ sitelenpona = [ "󱤃" ]
 origin.iso = "CA"
 origin.word = "à la chasse"
 
+[script]
+kanata = ""
+anku = ""
+sewijen = ""
+alapi = ""
+kililisa = ""
+elina = ""
+tewanakali = ""
+kijes = ""
+
 [categories]
 semantic = [ "activity" ]
 

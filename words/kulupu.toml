@@ -4,9 +4,19 @@ sitelenpona = [ "󱤟" ]
 origin.iso = "TO"
 origin.word = "kulupu"
 
+[script]
+kanata = ""
+anku = ""
+sewijen = ""
+alapi = ""
+kililisa = ""
+elina = ""
+tewanakali = ""
+kijes = ""
+
 [categories]
 semantic = [ "people" ]
 
 [definitions]
 en = "group, community, company, collection, team"
-nl = "groep, gemeenschap, organisatie, verzameling, team"
+nl = "groep, gemeenschap, organisatie, team"

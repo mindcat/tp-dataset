@@ -4,6 +4,16 @@ sitelenpona = [ "󱤆" ]
 origin.iso = "NL"
 origin.word = "ander"
 
+[script]
+kanata = ""
+anku = ""
+sewijen = ""
+alapi = ""
+kililisa = ""
+elina = ""
+tewanakali = ""
+kijes = ""
+
 [categories]
 semantic = [ "descriptions", "state" ]
 

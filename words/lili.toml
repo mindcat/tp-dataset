@@ -4,6 +4,16 @@ sitelenpona = [ "󱤨" ]
 origin.iso = "PG"
 origin.word = "liklik"
 
+[script]
+kanata = ""
+anku = ""
+sewijen = ""
+alapi = ""
+kililisa = ""
+elina = ""
+tewanakali = ""
+kijes = ""
+
 [categories]
 semantic = [ "descriptions" ]
 

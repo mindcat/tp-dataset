@@ -4,6 +4,16 @@ sitelenpona = [ "󱤷" ]
 origin.iso = "CA"
 origin.word = "mourir"
 
+[script]
+kanata = ""
+anku = ""
+sewijen = ""
+alapi = ""
+kililisa = ""
+elina = ""
+tewanakali = ""
+kijes = ""
+
 [categories]
 semantic = [ "ideas" ]
 

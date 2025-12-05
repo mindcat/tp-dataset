@@ -4,9 +4,19 @@ sitelenpona = [ "󱥚" ]
 origin.iso = "GE"
 origin.word = "[١ّللَه] ზევით"
 
+[script]
+kanata = ""
+anku = ""
+sewijen = ""
+alapi = ""
+kililisa = ""
+elina = ""
+tewanakali = ""
+kijes = ""
+
 [categories]
 semantic = [ "locating", "ideas" ]
 
 [definitions]
 en = "up, top, above; divine, sacred, supernatural; awesome, inspiring"
-nl = "boven, bovenkant; goddelijk, heilig, bovennatuurlijk; inspirerend"
+nl = "boven, bovenkant; goddelijk, heilig; inspirerend"

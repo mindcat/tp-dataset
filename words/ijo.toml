@@ -1,8 +1,18 @@
 lemma = "ijo"
 sitelenpona = [ "󱤌" ]
 
-origin.iso = ""
+origin.iso = "SP"
 origin.word = "io"
+
+[script]
+kanata = ""
+anku = ""
+sewijen = ""
+alapi = ""
+kililisa = ""
+elina = ""
+tewanakali = ""
+kijes = ""
 
 [categories]
 semantic = [ "things" ]

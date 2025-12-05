@@ -4,9 +4,19 @@ sitelenpona = [ "󱤅" ]
 origin.iso = "CA"
 origin.word = "en bas"
 
+[script]
+kanata = ""
+anku = ""
+sewijen = ""
+alapi = ""
+kililisa = ""
+elina = ""
+tewanakali = ""
+kijes = ""
+
 [categories]
 semantic = [ "locating" ]
 
 [definitions]
 en = "bottom, underside; below; defeat, humble, lowly"
-nl = "onderkant, beneden, laag; nederlaag, nederlaag, bescheiden"
+nl = "onderkant, beneden, laag; nederlaag, bescheiden"

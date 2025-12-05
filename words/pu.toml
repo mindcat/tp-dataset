@@ -4,6 +4,16 @@ sitelenpona = [ "󱥕" ]
 origin.iso = "CN"
 origin.word = "樸"
 
+[script]
+kanata = ""
+anku = ""
+sewijen = ""
+alapi = ""
+kililisa = ""
+elina = ""
+tewanakali = ""
+kijes = ""
+
 [categories]
 semantic = [ "activity" ]
 

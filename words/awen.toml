@@ -4,9 +4,19 @@ sitelenpona = [ "󱤈" ]
 origin.iso = "NL"
 origin.word = "houden"
 
+[script]
+kanata = ""
+anku = ""
+sewijen = ""
+alapi = ""
+kililisa = ""
+elina = ""
+tewanakali = ""
+kijes = ""
+
 [categories]
 semantic = [ "state" ]
 
 [definitions]
 en = "stay, remain, wait; protect, save; to continue"
-nl = "stand houden, wachten, blijven; beschermen, redden; doorgaan"
+nl = "stand houden, wachten; beschermen, redden; doorgaan"

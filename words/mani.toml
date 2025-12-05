@@ -4,6 +4,16 @@ sitelenpona = [ "󱤲" ]
 origin.iso = "US"
 origin.word = "money"
 
+[script]
+kanata = ""
+anku = ""
+sewijen = ""
+alapi = ""
+kililisa = ""
+elina = ""
+tewanakali = ""
+kijes = ""
+
 [categories]
 semantic = [ "necessities" ]
 

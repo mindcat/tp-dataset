@@ -4,6 +4,16 @@ sitelenpona = [ "󱥪" ]
 origin.iso = ""
 origin.word = "de l'eau"
 
+[script]
+kanata = ""
+anku = ""
+sewijen = ""
+alapi = ""
+kililisa = ""
+elina = ""
+tewanakali = ""
+kijes = ""
+
 [categories]
 semantic = [ "elements" ]
 

@@ -4,6 +4,16 @@ sitelenpona = [ "󱤍" ]
 origin.iso = "FI"
 origin.word = "ilkeä"
 
+[script]
+kanata = ""
+anku = ""
+sewijen = ""
+alapi = ""
+kililisa = ""
+elina = ""
+tewanakali = ""
+kijes = ""
+
 [categories]
 semantic = [ "descriptions" ]
 

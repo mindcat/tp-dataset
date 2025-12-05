@@ -4,6 +4,16 @@ sitelenpona = [ "󱥿" ]
 origin.iso = "TR"
 origin.word = "yansıtmak"
 
+[script]
+kanata = ""
+anku = ""
+sewijen = ""
+alapi = ""
+kililisa = ""
+elina = ""
+tewanakali = ""
+kijes = ""
+
 [categories]
 semantic = [ "ideas" ]
 

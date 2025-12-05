@@ -4,6 +4,16 @@ sitelenpona = [ "󱥭" ]
 origin.iso = "GR"
 origin.word = "δόμος"
 
+[script]
+kanata = ""
+anku = ""
+sewijen = ""
+alapi = ""
+kililisa = ""
+elina = ""
+tewanakali = ""
+kijes = ""
+
 [categories]
 semantic = [ "necessities" ]
 
