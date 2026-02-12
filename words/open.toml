@@ -1,12 +1,13 @@
 lemma = "open"
-sitelenpona = [ "󱥇" ]
+sitelenpona = [ "\U000f1947",]
 
-origin.iso = "US"
-origin.word = ""
+[origin]
+iso = "US"
+word = ""
 
 [script]
 kanata = "ᐅᐯᓐ"
-anku = ""
+anku = "오펜"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "state" ]
+semantic = [ "state",]
 
 [definitions]
 en = "begin, start; turn on; opening"

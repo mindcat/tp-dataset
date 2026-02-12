@@ -1,12 +1,13 @@
 lemma = "toki"
-sitelenpona = [ "󱥬" ]
+sitelenpona = [ "\U000f196c",]
 
-origin.iso = "PG"
-origin.word = ""
+[origin]
+iso = "PG"
+word = ""
 
 [script]
 kanata = "ᑐᑭ"
-anku = ""
+anku = "토기"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "activity" ]
+semantic = [ "activity",]
 
 [definitions]
 en = "talk, communicate; tale; language"

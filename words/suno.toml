@@ -1,12 +1,13 @@
 lemma = "suno"
-sitelenpona = [ "󱥤" ]
+sitelenpona = [ "\U000f1964",]
 
-origin.iso = "SP"
-origin.word = "suno"
+[origin]
+iso = "SP"
+word = "suno"
 
 [script]
 kanata = "ᓲᓄ"
-anku = ""
+anku = "수노"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "elements" ]
+semantic = [ "elements",]
 
 [definitions]
 en = "sun, light source; light, glow"

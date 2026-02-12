@@ -1,12 +1,13 @@
 lemma = "musi"
-sitelenpona = [ "󱤻" ]
+sitelenpona = [ "\U000f193b",]
 
-origin.iso = "SP"
-origin.word = "amuzi"
+[origin]
+iso = "SP"
+word = "amuzi"
 
 [script]
 kanata = "ᒨᓯ"
-anku = ""
+anku = "무시"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "ideas" ]
+semantic = [ "ideas",]
 
 [definitions]
 en = "entertainment, fun, game, art, amusing, interesting"

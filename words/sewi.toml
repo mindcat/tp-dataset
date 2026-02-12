@@ -1,12 +1,13 @@
 lemma = "sewi"
-sitelenpona = [ "󱥚" ]
+sitelenpona = [ "\U000f195a",]
 
-origin.iso = "GE"
-origin.word = "[١ّللَه] ზევით"
+[origin]
+iso = "GE"
+word = "[١ّللَه] ზევით"
 
 [script]
 kanata = "ᓭᕕ"
-anku = ""
+anku = "세위"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "locating", "ideas" ]
+semantic = [ "locating", "ideas",]
 
 [definitions]
 en = "up, top, above; divine, sacred, supernatural; awesome, inspiring"

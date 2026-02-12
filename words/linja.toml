@@ -1,12 +1,13 @@
 lemma = "linja"
-sitelenpona = [ "󱤩" ]
+sitelenpona = [ "\U000f1929",]
 
-origin.iso = "FI"
-origin.word = "linja"
+[origin]
+iso = "FI"
+word = "linja"
 
 [script]
 kanata = "ᓕᓐᔭ"
-anku = ""
+anku = "린야"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "things" ]
+semantic = [ "things",]
 
 [definitions]
 en = "long and flexible thing, rope, hair, line, string"

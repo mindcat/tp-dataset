@@ -1,12 +1,13 @@
 lemma = "luka"
-sitelenpona = [ "󱤭" ]
+sitelenpona = [ "\U000f192d",]
 
-origin.iso = "YU"
-origin.word = "рука"
+[origin]
+iso = "YU"
+word = "рука"
 
 [script]
 kanata = "ᓘᑲ"
-anku = ""
+anku = "루가"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "body", "counting" ]
+semantic = [ "body", "counting",]
 
 [definitions]
 en = "hand, arm; 5"

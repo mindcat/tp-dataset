@@ -1,12 +1,13 @@
 lemma = "kasi"
-sitelenpona = [ "󱤗" ]
+sitelenpona = [ "\U000f1917",]
 
-origin.iso = "FI"
-origin.word = "kasvi"
+[origin]
+iso = "FI"
+word = "kasvi"
 
 [script]
 kanata = "ᑲᓯ"
-anku = ""
+anku = "가시"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "elements" ]
+semantic = [ "elements",]
 
 [definitions]
 en = "plant, vegetation; herb, leaf"

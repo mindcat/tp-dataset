@@ -1,12 +1,13 @@
 lemma = "tu"
-sitelenpona = [ "󱥮" ]
+sitelenpona = [ "\U000f196e",]
 
-origin.iso = "SP"
-origin.word = "du"
+[origin]
+iso = "SP"
+word = "du"
 
 [script]
 kanata = "ᑑ"
-anku = ""
+anku = "투"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "counting" ]
+semantic = [ "counting",]
 
 [definitions]
 en = "2; separate, divide, split"

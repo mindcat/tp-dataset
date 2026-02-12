@@ -1,12 +1,13 @@
 lemma = "esun"
-sitelenpona = [ "󱤋" ]
+sitelenpona = [ "\U000f190b",]
 
-origin.iso = "GH"
-origin.word = "edwamu"
+[origin]
+iso = "GH"
+word = "edwamu"
 
 [script]
 kanata = "ᐁᓰᓐ"
-anku = ""
+anku = "에순"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "necessities", "activity" ]
+semantic = [ "necessities", "activity",]
 
 [definitions]
 en = "market, shop; trade, buy, sell"

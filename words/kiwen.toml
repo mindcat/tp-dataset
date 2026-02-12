@@ -1,12 +1,13 @@
 lemma = "kiwen"
-sitelenpona = [ "󱤛" ]
+sitelenpona = [ "\U000f191b",]
 
-origin.iso = "FI"
-origin.word = "kiven"
+[origin]
+iso = "FI"
+word = "kiven"
 
 [script]
 kanata = "ᑭᕓᓐ"
-anku = ""
+anku = "기웬"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "descriptions", "elements" ]
+semantic = [ "descriptions", "elements",]
 
 [definitions]
 en = "hard object, stone, rock, metal"

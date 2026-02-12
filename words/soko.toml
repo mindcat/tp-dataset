@@ -1,12 +1,13 @@
 lemma = "soko"
-sitelenpona = [ "󱦁" ]
+sitelenpona = [ "\U000f1981",]
 
-origin.iso = "GE"
-origin.word = "სოკო"
+[origin]
+iso = "GE"
+word = "სოკო"
 
 [script]
 kanata = "ᓱᑯ"
-anku = ""
+anku = "소고"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "elements" ]
+semantic = [ "elements",]
 
 [definitions]
 en = "mushroom, fungus, lichen"

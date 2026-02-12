@@ -1,12 +1,13 @@
 lemma = "palisa"
-sitelenpona = [ "󱥊" ]
+sitelenpona = [ "\U000f194a",]
 
-origin.iso = "YU"
-origin.word = "палица"
+[origin]
+iso = "YU"
+word = "палица"
 
 [script]
 kanata = "ᐸᓕᓴ"
-anku = ""
+anku = "파리사"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "things" ]
+semantic = [ "things",]
 
 [definitions]
 en = "long hard object, rod, stick"

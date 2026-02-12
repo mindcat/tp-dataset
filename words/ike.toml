@@ -1,12 +1,13 @@
 lemma = "ike"
-sitelenpona = [ "󱤍" ]
+sitelenpona = [ "\U000f190d",]
 
-origin.iso = "FI"
-origin.word = "ilkeä"
+[origin]
+iso = "FI"
+word = "ilkeä"
 
 [script]
 kanata = "ᐃᑫ"
-anku = ""
+anku = "이게"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "descriptions" ]
+semantic = [ "descriptions",]
 
 [definitions]
 en = "bad, negative, unpleasant, cringe, complex, harmful, unneeded"

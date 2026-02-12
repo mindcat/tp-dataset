@@ -1,12 +1,13 @@
 lemma = "mute"
-sitelenpona = [ "󱤼" ]
+sitelenpona = [ "\U000f193c",]
 
-origin.iso = "SP"
-origin.word = "multe"
+[origin]
+iso = "SP"
+word = "multe"
 
 [script]
 kanata = "ᒨᑌ"
-anku = ""
+anku = "무테"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "counting" ]
+semantic = [ "counting",]
 
 [definitions]
 en = "many, several; very; 20"

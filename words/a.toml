@@ -1,12 +1,13 @@
 lemma = "a"
-sitelenpona = [ "󱤀" ]
+sitelenpona = [ "\U000f1900",]
 
-origin.iso = ""
-origin.word = ""
+[origin]
+iso = ""
+word = ""
 
 [script]
 kanata = "ᐊ"
-anku = ""
+anku = "아"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "evoke" ]
+semantic = [ "evoke",]
 
 [definitions]
 en = "(emphasis/emotion interjection); ah, oh, haha, eh, um"

@@ -1,12 +1,13 @@
 lemma = "meli"
-sitelenpona = [ "󱤳" ]
+sitelenpona = [ "\U000f1933",]
 
-origin.iso = "PG"
-origin.word = "meri"
+[origin]
+iso = "PG"
+word = "meri"
 
 [script]
 kanata = "ᒣᓕ"
-anku = ""
+anku = "메리"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "people" ]
+semantic = [ "people",]
 
 [definitions]
 en = "female, feminine"

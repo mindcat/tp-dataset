@@ -1,12 +1,13 @@
 lemma = "tomo"
-sitelenpona = [ "󱥭" ]
+sitelenpona = [ "\U000f196d",]
 
-origin.iso = "GR"
-origin.word = "δόμος"
+[origin]
+iso = "GR"
+word = "δόμος"
 
 [script]
 kanata = "ᑐᑯ"
-anku = ""
+anku = "토모"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "necessities" ]
+semantic = [ "necessities",]
 
 [definitions]
 en = "building, room, tent, shelter"

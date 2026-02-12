@@ -1,12 +1,13 @@
 lemma = "jasima"
-sitelenpona = [ "󱥿" ]
+sitelenpona = [ "\U000f197f",]
 
-origin.iso = "TR"
-origin.word = "yansıtmak"
+[origin]
+iso = "TR"
+word = "yansıtmak"
 
 [script]
 kanata = "ᔭᓯᒪ"
-anku = ""
+anku = "야시마"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "ideas" ]
+semantic = [ "ideas",]
 
 [definitions]
 en = "mirror, reflection, opposite"

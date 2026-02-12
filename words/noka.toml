@@ -1,12 +1,13 @@
 lemma = "noka"
-sitelenpona = [ "󱥃" ]
+sitelenpona = [ "\U000f1943",]
 
-origin.iso = "YU"
-origin.word = "нога"
+[origin]
+iso = "YU"
+word = "нога"
 
 [script]
 kanata = "ᓄᑲ"
-anku = ""
+anku = "노가"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "body" ]
+semantic = [ "body",]
 
 [definitions]
 en = "foot, leg; roots, lower part"

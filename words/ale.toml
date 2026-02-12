@@ -1,12 +1,13 @@
 lemma = "ale"
-sitelenpona = [ "󱤄" ]
+sitelenpona = [ "\U000f1904",]
 
-origin.iso = "NL"
-origin.word = "alle"
+[origin]
+iso = "NL"
+word = "alle"
 
 [script]
 kanata = "ᐊᓓ"
-anku = ""
+anku = "아레"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "counting" ]
+semantic = [ "counting",]
 
 [definitions]
 en = "all, everything, entirety; any; 100"

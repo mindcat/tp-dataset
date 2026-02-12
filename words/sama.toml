@@ -1,12 +1,13 @@
 lemma = "sama"
-sitelenpona = [ "󱥖" ]
+sitelenpona = [ "\U000f1956",]
 
-origin.iso = "SP"
-origin.word = "sama"
+[origin]
+iso = "SP"
+word = "sama"
 
 [script]
 kanata = "ᓴᒪ"
-anku = ""
+anku = "사마"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "descriptions" ]
+semantic = [ "descriptions",]
 
 [definitions]
 en = "same, similar; sibling, peer; as, like"

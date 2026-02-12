@@ -1,12 +1,13 @@
 lemma = "wan"
-sitelenpona = [ "󱥳" ]
+sitelenpona = [ "\U000f1973",]
 
-origin.iso = "US"
-origin.word = "one"
+[origin]
+iso = "US"
+word = "one"
 
 [script]
 kanata = "ᕙᓐ"
-anku = ""
+anku = "완"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "counting" ]
+semantic = [ "counting",]
 
 [definitions]
 en = "1; combine, join, mix"

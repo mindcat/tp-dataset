@@ -1,12 +1,13 @@
 lemma = "akesi"
-sitelenpona = [ "󱤁", "akesi2" ]
+sitelenpona = [ "\U000f1901", "akesi2",]
 
-origin.iso = "NL"
-origin.word = "hagedis"
+[origin]
+iso = "NL"
+word = "hagedis"
 
 [script]
 kanata = "ᐊᑫᓯ"
-anku = ""
+anku = "아게시"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "critters" ]
+semantic = [ "critters",]
 
 [definitions]
 en = "reptile, amphibian, scaly animal"

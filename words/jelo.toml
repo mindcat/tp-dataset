@@ -1,12 +1,13 @@
 lemma = "jelo"
-sitelenpona = [ "󱤒" ]
+sitelenpona = [ "\U000f1912",]
 
-origin.iso = "GB"
-origin.word = "yellow"
+[origin]
+iso = "GB"
+word = "yellow"
 
 [script]
 kanata = "ᔦᓗ"
-anku = ""
+anku = "예로"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "sight" ]
+semantic = [ "sight",]
 
 [definitions]
 en = "yellow, yellowish color"

@@ -1,12 +1,13 @@
 lemma = "nena"
-sitelenpona = [ "󱥀" ]
+sitelenpona = [ "\U000f1940",]
 
-origin.iso = "FI"
-origin.word = "nenä"
+[origin]
+iso = "FI"
+word = "nenä"
 
 [script]
 kanata = "ᓀᓇ"
-anku = ""
+anku = "네나"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "body", "things" ]
+semantic = [ "body", "things",]
 
 [definitions]
 en = "nose, bump, hill, button"

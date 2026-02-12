@@ -1,12 +1,13 @@
 lemma = "ala"
-sitelenpona = [ "󱤂" ]
+sitelenpona = [ "\U000f1902",]
 
-origin.iso = "GE"
-origin.word = "არა"
+[origin]
+iso = "GE"
+word = "არა"
 
 [script]
 kanata = "ᐊᓚ"
-anku = ""
+anku = "아라"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "counting" ]
+semantic = [ "counting",]
 
 [definitions]
 en = "not, nothing, no; 0; (negation); (yes-no question)"

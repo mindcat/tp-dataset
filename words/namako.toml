@@ -1,12 +1,13 @@
 lemma = "namako"
-sitelenpona = [ "󱥸" ]
+sitelenpona = [ "\U000f1978",]
 
-origin.iso = "IN"
-origin.word = "नमक"
+[origin]
+iso = "IN"
+word = "नमक"
 
 [script]
 kanata = "ᓇᒪᑯ"
-anku = ""
+anku = "나마고"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "things", "descriptions" ]
+semantic = [ "things", "descriptions",]
 
 [definitions]
 en = "spice, ornament; extra, additional"

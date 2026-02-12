@@ -1,12 +1,13 @@
 lemma = "pan"
-sitelenpona = [ "󱥋" ]
+sitelenpona = [ "\U000f194b",]
 
-origin.iso = "JP"
-origin.word = "パン"
+[origin]
+iso = "JP"
+word = "パン"
 
 [script]
 kanata = "ᐸᓐ"
-anku = ""
+anku = "판"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "necessities" ]
+semantic = [ "necessities",]
 
 [definitions]
 en = "bread, grain, potato, pasta, rice"

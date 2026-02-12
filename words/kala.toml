@@ -1,12 +1,13 @@
 lemma = "kala"
-sitelenpona = [ "󱤔" ]
+sitelenpona = [ "\U000f1914",]
 
-origin.iso = "FI"
-origin.word = "kala"
+[origin]
+iso = "FI"
+word = "kala"
 
 [script]
 kanata = "ᑲᓚ"
-anku = ""
+anku = "가라"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "critters" ]
+semantic = [ "critters",]
 
 [definitions]
 en = "fish, marine animal"

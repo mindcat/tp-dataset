@@ -1,12 +1,13 @@
 lemma = "pona"
-sitelenpona = [ "󱥔" ]
+sitelenpona = [ "\U000f1954",]
 
-origin.iso = "SP"
-origin.word = "bona"
+[origin]
+iso = "SP"
+word = "bona"
 
 [script]
 kanata = "ᐳᓇ"
-anku = ""
+anku = "포나"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "descriptions" ]
+semantic = [ "descriptions",]
 
 [definitions]
 en = "good, positive, pleasant, simple, friendly, useful, peaceful, based"

@@ -1,12 +1,13 @@
 lemma = "ko"
-sitelenpona = [ "󱤜" ]
+sitelenpona = [ "\U000f191c",]
 
-origin.iso = "HK"
-origin.word = "膏"
+[origin]
+iso = "HK"
+word = "膏"
 
 [script]
 kanata = "ᑯ"
-anku = ""
+anku = "고"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "descriptions" ]
+semantic = [ "descriptions",]
 
 [definitions]
 en = "clay, dough, something pliable, powder, sand"

@@ -1,12 +1,13 @@
 lemma = "suwi"
-sitelenpona = [ "󱥦" ]
+sitelenpona = [ "\U000f1966",]
 
-origin.iso = "PG"
-origin.word = "swit"
+[origin]
+iso = "PG"
+word = "swit"
 
 [script]
 kanata = "ᓲᕕ"
-anku = ""
+anku = "수위"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "descriptions" ]
+semantic = [ "descriptions",]
 
 [definitions]
 en = "sweet; cute, innocent, adorable"

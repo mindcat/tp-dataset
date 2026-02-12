@@ -1,12 +1,13 @@
 lemma = "alasa"
-sitelenpona = [ "󱤃" ]
+sitelenpona = [ "\U000f1903",]
 
-origin.iso = "CA"
-origin.word = "à la chasse"
+[origin]
+iso = "CA"
+word = "à la chasse"
 
 [script]
 kanata = "ᐊᓚᓴ"
-anku = ""
+anku = "아라사"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "activity" ]
+semantic = [ "activity",]
 
 [definitions]
 en = "hunt, forage, seek, attempt, try"

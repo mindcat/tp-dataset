@@ -1,12 +1,13 @@
 lemma = "kipisi"
-sitelenpona = [ "󱥻" ]
+sitelenpona = [ "\U000f197b",]
 
-origin.iso = ""
-origin.word = "kipisi"
+[origin]
+iso = ""
+word = "kipisi"
 
 [script]
 kanata = "ᑭᐱᓯ"
-anku = ""
+anku = "기피시"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "activity" ]
+semantic = [ "activity",]
 
 [definitions]
 en = "cut, split, slice; piece, part"

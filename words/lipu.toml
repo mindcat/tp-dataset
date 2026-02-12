@@ -1,12 +1,13 @@
 lemma = "lipu"
-sitelenpona = [ "󱤪" ]
+sitelenpona = [ "\U000f192a",]
 
-origin.iso = "FI"
-origin.word = "lippu"
+[origin]
+iso = "FI"
+word = "lippu"
 
 [script]
 kanata = "ᓕᐴ"
-anku = ""
+anku = "리푸"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "things" ]
+semantic = [ "things",]
 
 [definitions]
 en = "flat object, paper, document, card, website"

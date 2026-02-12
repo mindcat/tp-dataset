@@ -1,12 +1,13 @@
 lemma = "awen"
-sitelenpona = [ "󱤈" ]
+sitelenpona = [ "\U000f1908",]
 
-origin.iso = "NL"
-origin.word = "houden"
+[origin]
+iso = "NL"
+word = "houden"
 
 [script]
 kanata = "ᐊᕓᓐ"
-anku = ""
+anku = "아웬"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "state" ]
+semantic = [ "state",]
 
 [definitions]
 en = "stay, remain, wait; protect, save; to continue"

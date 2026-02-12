@@ -1,12 +1,13 @@
 lemma = "li"
-sitelenpona = [ "󱤧" ]
+sitelenpona = [ "\U000f1927",]
 
-origin.iso = "SP"
-origin.word = ""
+[origin]
+iso = "SP"
+word = ""
 
 [script]
 kanata = "ᓕ"
-anku = ""
+anku = "리"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "connection" ]
+semantic = [ "connection",]
 
 [definitions]
 en = "(predicate marker)"

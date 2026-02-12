@@ -1,12 +1,13 @@
 lemma = "lon"
-sitelenpona = [ "󱤬" ]
+sitelenpona = [ "\U000f192c",]
 
-origin.iso = "PG"
-origin.word = "long"
+[origin]
+iso = "PG"
+word = "long"
 
 [script]
 kanata = "ᓗᓐ"
-anku = ""
+anku = "론"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "locating", "connection" ]
+semantic = [ "locating", "connection",]
 
 [definitions]
 en = "located at; real, true, exist"

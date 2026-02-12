@@ -1,12 +1,13 @@
 lemma = "pi"
-sitelenpona = [ "󱥍" ]
+sitelenpona = [ "\U000f194d",]
 
-origin.iso = "PG"
-origin.word = "bilong"
+[origin]
+iso = "PG"
+word = "bilong"
 
 [script]
 kanata = "ᐱ"
-anku = ""
+anku = "피"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "connection" ]
+semantic = [ "connection",]
 
 [definitions]
 en = "(regroups modifiers)"

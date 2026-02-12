@@ -1,12 +1,13 @@
 lemma = "lili"
-sitelenpona = [ "󱤨" ]
+sitelenpona = [ "\U000f1928",]
 
-origin.iso = "PG"
-origin.word = "liklik"
+[origin]
+iso = "PG"
+word = "liklik"
 
 [script]
 kanata = "ᓕᓕ"
-anku = ""
+anku = "리리"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "descriptions" ]
+semantic = [ "descriptions",]
 
 [definitions]
 en = "little, small, short; few; young"

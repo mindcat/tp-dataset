@@ -1,12 +1,13 @@
 lemma = "jaki"
-sitelenpona = [ "󱤐" ]
+sitelenpona = [ "\U000f1910",]
 
-origin.iso = "US"
-origin.word = "yucky"
+[origin]
+iso = "US"
+word = "yucky"
 
 [script]
 kanata = "ᔭᑭ"
-anku = ""
+anku = "야기"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "descriptions" ]
+semantic = [ "descriptions",]
 
 [definitions]
 en = "disgusting, unclean, toxic"

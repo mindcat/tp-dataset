@@ -1,12 +1,13 @@
 lemma = "monsi"
-sitelenpona = [ "󱤸" ]
+sitelenpona = [ "\U000f1938",]
 
-origin.iso = "CA"
-origin.word = "mon tchu"
+[origin]
+iso = "CA"
+word = "mon tchu"
 
 [script]
 kanata = "ᒧᓐᓯ"
-anku = ""
+anku = "몬시"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "locating", "body" ]
+semantic = [ "locating", "body",]
 
 [definitions]
 en = "behind, back, rear"

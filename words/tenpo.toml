@@ -1,12 +1,13 @@
 lemma = "tenpo"
-sitelenpona = [ "󱥫" ]
+sitelenpona = [ "\U000f196b",]
 
-origin.iso = "SP"
-origin.word = "tempo"
+[origin]
+iso = "SP"
+word = "tempo"
 
 [script]
 kanata = "ᑌᓐᐳ"
-anku = ""
+anku = "텐포"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "state", "ideas" ]
+semantic = [ "state", "ideas",]
 
 [definitions]
 en = "time, moment, period, duration"

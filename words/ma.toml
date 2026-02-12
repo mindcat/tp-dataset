@@ -1,12 +1,13 @@
 lemma = "ma"
-sitelenpona = [ "󱤰" ]
+sitelenpona = [ "\U000f1930",]
 
-origin.iso = "FI"
-origin.word = "maa"
+[origin]
+iso = "FI"
+word = "maa"
 
 [script]
 kanata = "ᒪ"
-anku = ""
+anku = "마"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "elements" ]
+semantic = [ "elements",]
 
 [definitions]
 en = "earth, land, soil; country, territory"

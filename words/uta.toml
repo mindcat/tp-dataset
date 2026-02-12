@@ -1,12 +1,13 @@
 lemma = "uta"
-sitelenpona = [ "󱥰" ]
+sitelenpona = [ "\U000f1970",]
 
-origin.iso = "YU"
-origin.word = "уста"
+[origin]
+iso = "YU"
+word = "уста"
 
 [script]
 kanata = "ᐆᑕ"
-anku = ""
+anku = "우타"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "body" ]
+semantic = [ "body",]
 
 [definitions]
 en = "mouth, lips"

@@ -1,12 +1,13 @@
 lemma = "supa"
-sitelenpona = [ "󱥥" ]
+sitelenpona = [ "\U000f1965",]
 
-origin.iso = "SP"
-origin.word = "surfaco"
+[origin]
+iso = "SP"
+word = "surfaco"
 
 [script]
 kanata = "ᓲᐸ"
-anku = ""
+anku = "수파"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "things" ]
+semantic = [ "things",]
 
 [definitions]
 en = "horizontal surface, bed, floor, table, platform, stage"

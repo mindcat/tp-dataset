@@ -1,12 +1,13 @@
 lemma = "mi"
-sitelenpona = [ "󱤴" ]
+sitelenpona = [ "\U000f1934",]
 
-origin.iso = "SP"
-origin.word = ""
+[origin]
+iso = "SP"
+word = ""
 
 [script]
 kanata = "ᒥ"
-anku = ""
+anku = "미"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "people" ]
+semantic = [ "people",]
 
 [definitions]
 en = "(1st-person) I, me, we, us"

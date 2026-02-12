@@ -1,12 +1,13 @@
 lemma = "insa"
-sitelenpona = [ "󱤏" ]
+sitelenpona = [ "\U000f190f",]
 
-origin.iso = "PG"
-origin.word = "insait"
+[origin]
+iso = "PG"
+word = "insait"
 
 [script]
 kanata = "ᐃᓐᓴ"
-anku = ""
+anku = "인사"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "locating", "body" ]
+semantic = [ "locating", "body",]
 
 [definitions]
 en = "inside, center, between, middle; organ, stomach"

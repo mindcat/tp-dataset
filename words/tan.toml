@@ -1,12 +1,13 @@
 lemma = "tan"
-sitelenpona = [ "󱥧" ]
+sitelenpona = [ "\U000f1967",]
 
-origin.iso = "SP"
-origin.word = "從"
+[origin]
+iso = "SP"
+word = "從"
 
 [script]
 kanata = "ᑕᓐ"
-anku = ""
+anku = "탄"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "connection" ]
+semantic = [ "connection",]
 
 [definitions]
 en = "by, from, because; origin, cause"

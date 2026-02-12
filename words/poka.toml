@@ -1,12 +1,13 @@
 lemma = "poka"
-sitelenpona = [ "󱥒" ]
+sitelenpona = [ "\U000f1952",]
 
-origin.iso = "YU"
-origin.word = "бока"
+[origin]
+iso = "YU"
+word = "бока"
 
 [script]
 kanata = "ᐳᑲ"
-anku = ""
+anku = "포가"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "locating" ]
+semantic = [ "locating",]
 
 [definitions]
 en = "side, hip; next to, near"

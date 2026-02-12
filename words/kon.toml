@@ -1,12 +1,13 @@
 lemma = "kon"
-sitelenpona = [ "󱤝" ]
+sitelenpona = [ "\U000f191d",]
 
-origin.iso = "CN"
-origin.word = "空氣"
+[origin]
+iso = "CN"
+word = "空氣"
 
 [script]
 kanata = "ᑯᓐ"
-anku = ""
+anku = "곤"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "elements" ]
+semantic = [ "elements",]
 
 [definitions]
 en = "air, breath, wind; spirit, soul"

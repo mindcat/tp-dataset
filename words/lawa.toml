@@ -1,12 +1,13 @@
 lemma = "lawa"
-sitelenpona = [ "󱤤" ]
+sitelenpona = [ "\U000f1924",]
 
-origin.iso = "YU"
-origin.word = "глава"
+[origin]
+iso = "YU"
+word = "глава"
 
 [script]
 kanata = "ᓚᕙ"
-anku = ""
+anku = "라와"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "body", "descriptions" ]
+semantic = [ "body", "descriptions",]
 
 [definitions]
 en = "head, mind; lead; leader; rule"

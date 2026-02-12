@@ -1,12 +1,13 @@
 lemma = "anu"
-sitelenpona = [ "󱤇" ]
+sitelenpona = [ "\U000f1907",]
 
-origin.iso = "GE"
-origin.word = "ან"
+[origin]
+iso = "GE"
+word = "ან"
 
 [script]
 kanata = "ᐊᓐᐆ"
-anku = ""
+anku = "안우"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "connection" ]
+semantic = [ "connection",]
 
 [definitions]
 en = "(possibility marker), or"

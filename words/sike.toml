@@ -1,12 +1,13 @@
 lemma = "sike"
-sitelenpona = [ "󱥜" ]
+sitelenpona = [ "\U000f195c",]
 
-origin.iso = "US"
-origin.word = "circle"
+[origin]
+iso = "US"
+word = "circle"
 
 [script]
 kanata = "ᓯᑫ"
-anku = ""
+anku = "시게"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "things" ]
+semantic = [ "things",]
 
 [definitions]
 en = "circle, sphere; cycle, orbit, year"

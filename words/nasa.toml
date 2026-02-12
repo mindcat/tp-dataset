@@ -1,12 +1,13 @@
 lemma = "nasa"
-sitelenpona = [ "󱤾" ]
+sitelenpona = [ "\U000f193e",]
 
-origin.iso = "PG"
-origin.word = "nasau"
+[origin]
+iso = "PG"
+word = "nasau"
 
 [script]
 kanata = "ᓇᓴ"
-anku = ""
+anku = "나사"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "descriptions" ]
+semantic = [ "descriptions",]
 
 [definitions]
 en = "strange, unusual, silly, unexpected; drunk"

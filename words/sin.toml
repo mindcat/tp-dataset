@@ -1,12 +1,13 @@
 lemma = "sin"
-sitelenpona = [ "󱥝" ]
+sitelenpona = [ "\U000f195d",]
 
-origin.iso = "CN"
-origin.word = "新"
+[origin]
+iso = "CN"
+word = "新"
 
 [script]
 kanata = "ᓯᓐ"
-anku = ""
+anku = "신"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "descriptions" ]
+semantic = [ "descriptions",]
 
 [definitions]
 en = "new, fresh; another, extra"

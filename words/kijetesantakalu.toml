@@ -1,12 +1,13 @@
 lemma = "kijetesantakalu"
-sitelenpona = [ "󱦀" ]
+sitelenpona = [ "\U000f1980",]
 
-origin.iso = "FI"
-origin.word = ""
+[origin]
+iso = "FI"
+word = ""
 
 [script]
 kanata = "ᑭᔦᑌᓴᓐᑕᑲᓘ"
-anku = ""
+anku = "기예테산타가루"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "critters" ]
+semantic = [ "critters",]
 
 [definitions]
 en = "raccoon, procyonid, musteloid"

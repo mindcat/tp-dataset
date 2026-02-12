@@ -1,12 +1,13 @@
 lemma = "waso"
-sitelenpona = [ "󱥴" ]
+sitelenpona = [ "\U000f1974",]
 
-origin.iso = ""
-origin.word = "oiseau"
+[origin]
+iso = ""
+word = "oiseau"
 
 [script]
 kanata = "ᕙᓱ"
-anku = ""
+anku = "와소"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "critters" ]
+semantic = [ "critters",]
 
 [definitions]
 en = "bird, flying animal, winged animal"

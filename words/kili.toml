@@ -1,12 +1,13 @@
 lemma = "kili"
-sitelenpona = [ "󱤚" ]
+sitelenpona = [ "\U000f191a",]
 
-origin.iso = "GE"
-origin.word = "ხილი"
+[origin]
+iso = "GE"
+word = "ხილი"
 
 [script]
 kanata = "ᑭᓕ"
-anku = ""
+anku = "기리"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "elements" ]
+semantic = [ "elements",]
 
 [definitions]
 en = "fruit, vegetable"

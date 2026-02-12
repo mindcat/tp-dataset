@@ -1,12 +1,13 @@
 lemma = "kulupu"
-sitelenpona = [ "󱤟" ]
+sitelenpona = [ "\U000f191f",]
 
-origin.iso = "TO"
-origin.word = "kulupu"
+[origin]
+iso = "TO"
+word = "kulupu"
 
 [script]
 kanata = "ᑰᓘᐴ"
-anku = ""
+anku = "구루푸"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "people" ]
+semantic = [ "people",]
 
 [definitions]
 en = "group, community, company, collection, team"

@@ -1,12 +1,13 @@
 lemma = "monsuta"
-sitelenpona = [ "󱥽" ]
+sitelenpona = [ "\U000f197d",]
 
-origin.iso = "JP"
-origin.word = "モンスタ"
+[origin]
+iso = "JP"
+word = "モンスタ"
 
 [script]
 kanata = "ᒧᓐᓲᑕ"
-anku = ""
+anku = "몬수타"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "ideas" ]
+semantic = [ "ideas",]
 
 [definitions]
 en = "monster, fear, scary, threat, danger"

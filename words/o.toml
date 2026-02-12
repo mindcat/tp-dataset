@@ -1,12 +1,13 @@
 lemma = "o"
-sitelenpona = [ "󱥄" ]
+sitelenpona = [ "\U000f1944",]
 
-origin.iso = "GE"
-origin.word = "-ო"
+[origin]
+iso = "GE"
+word = "-ო"
 
 [script]
 kanata = "ᐅ"
-anku = ""
+anku = "오"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "evoke" ]
+semantic = [ "evoke",]
 
 [definitions]
 en = "(vocative/imperative marker), must, ought, should, could, would"

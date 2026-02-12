@@ -1,12 +1,13 @@
 lemma = "mama"
-sitelenpona = [ "󱤱" ]
+sitelenpona = [ "\U000f1931",]
 
-origin.iso = "GE"
-origin.word = "მამა"
+[origin]
+iso = "GE"
+word = "მამა"
 
 [script]
 kanata = "ᒪᒪ"
-anku = ""
+anku = "마마"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "people" ]
+semantic = [ "people",]
 
 [definitions]
 en = "parent, caretaker; creator"

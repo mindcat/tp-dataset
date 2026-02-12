@@ -1,12 +1,13 @@
 lemma = "meso"
-sitelenpona = [ "󱦂" ]
+sitelenpona = [ "\U000f1982",]
 
-origin.iso = "GR"
-origin.word = "μέσος"
+[origin]
+iso = "GR"
+word = "μέσος"
 
 [script]
 kanata = "ᒣᓱ"
-anku = ""
+anku = "메소"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,8 +16,8 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "locating"]
+semantic = [ "locating",]
 
 [definitions]
 en = "midpoint, medium, mediocre;"
-nl = "" # unfinished
+nl = ""

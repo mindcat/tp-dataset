@@ -1,12 +1,13 @@
 lemma = "suli"
-sitelenpona = [ "󱥣" ]
+sitelenpona = [ "\U000f1963",]
 
-origin.iso = "FI"
-origin.word = "suuri"
+[origin]
+iso = "FI"
+word = "suuri"
 
 [script]
 kanata = "ᓲᓕ"
-anku = ""
+anku = "수리"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "descriptions" ]
+semantic = [ "descriptions",]
 
 [definitions]
 en = "big, heavy, large; important; adult"

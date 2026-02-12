@@ -1,12 +1,13 @@
 lemma = "selo"
-sitelenpona = [ "󱥘" ]
+sitelenpona = [ "\U000f1958",]
 
-origin.iso = "SP"
-origin.word = "ŝelo"
+[origin]
+iso = "SP"
+word = "ŝelo"
 
 [script]
 kanata = "ᓭᓗ"
-anku = ""
+anku = "세로"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "locating", "body" ]
+semantic = [ "locating", "body",]
 
 [definitions]
 en = "outer layer, skin, peel, shell, bark; boundary"

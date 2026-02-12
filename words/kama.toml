@@ -1,12 +1,13 @@
 lemma = "kama"
-sitelenpona = [ "󱤖" ]
+sitelenpona = [ "\U000f1916",]
 
-origin.iso = "PG"
-origin.word = "kamap"
+[origin]
+iso = "PG"
+word = "kamap"
 
 [script]
 kanata = "ᑲᒪ"
-anku = ""
+anku = "가마"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "state" ]
+semantic = [ "state",]
 
 [definitions]
 en = "arrive, summon; future; become"

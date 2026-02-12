@@ -1,12 +1,13 @@
 lemma = "tawa"
-sitelenpona = [ "󱥩" ]
+sitelenpona = [ "\U000f1969",]
 
-origin.iso = "US"
-origin.word = "toward"
+[origin]
+iso = "US"
+word = "toward"
 
 [script]
 kanata = "ᑕᕙ"
-anku = ""
+anku = "타와"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "state" ]
+semantic = [ "state",]
 
 [definitions]
 en = "motion, walking, flight, travel; going to, for; from the perspective of"

@@ -1,12 +1,13 @@
 lemma = "pana"
-sitelenpona = [ "󱥌" ]
+sitelenpona = [ "\U000f194c",]
 
-origin.iso = "FI"
-origin.word = "panna"
+[origin]
+iso = "FI"
+word = "panna"
 
 [script]
 kanata = "ᐸᓇ"
-anku = ""
+anku = "파나"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "activity" ]
+semantic = [ "activity",]
 
 [definitions]
 en = "give, send, emit, provide"

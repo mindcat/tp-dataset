@@ -1,12 +1,13 @@
 lemma = "ante"
-sitelenpona = [ "󱤆" ]
+sitelenpona = [ "\U000f1906",]
 
-origin.iso = "NL"
-origin.word = "ander"
+[origin]
+iso = "NL"
+word = "ander"
 
 [script]
 kanata = "ᐊᓐᑌ"
-anku = ""
+anku = "안테"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "descriptions", "state" ]
+semantic = [ "descriptions", "state",]
 
 [definitions]
 en = "different, change, changed, other"

@@ -1,12 +1,13 @@
 lemma = "pilin"
-sitelenpona = [ "󱥎" ]
+sitelenpona = [ "\U000f194e",]
 
-origin.iso = "PG"
-origin.word = "pilim"
+[origin]
+iso = "PG"
+word = "pilim"
 
 [script]
 kanata = "ᐱᓕᓐ"
-anku = ""
+anku = "피린"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "ideas", "body" ]
+semantic = [ "ideas", "body",]
 
 [definitions]
 en = "heart, feeling (emotion, sense)"

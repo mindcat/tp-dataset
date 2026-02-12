@@ -1,12 +1,13 @@
 lemma = "loje"
-sitelenpona = [ "󱤫" ]
+sitelenpona = [ "\U000f192b",]
 
-origin.iso = "NL"
-origin.word = "rooie"
+[origin]
+iso = "NL"
+word = "rooie"
 
 [script]
 kanata = "ᓗᔦ"
-anku = ""
+anku = "로예"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "sight" ]
+semantic = [ "sight",]
 
 [definitions]
 en = "red, reddish color"

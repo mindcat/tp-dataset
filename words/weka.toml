@@ -1,12 +1,13 @@
 lemma = "weka"
-sitelenpona = [ "󱥶" ]
+sitelenpona = [ "\U000f1976",]
 
-origin.iso = "NL"
-origin.word = "weg"
+[origin]
+iso = "NL"
+word = "weg"
 
 [script]
 kanata = "ᕓᑲ"
-anku = ""
+anku = "웨가"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "locating", "state" ]
+semantic = [ "locating", "state",]
 
 [definitions]
 en = "away, absent, distant; remove, rid"

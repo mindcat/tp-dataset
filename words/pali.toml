@@ -1,12 +1,13 @@
 lemma = "pali"
-sitelenpona = [ "󱥉" ]
+sitelenpona = [ "\U000f1949",]
 
-origin.iso = "SP"
-origin.word = "fari"
+[origin]
+iso = "SP"
+word = "fari"
 
 [script]
 kanata = "ᐸᓕ"
-anku = ""
+anku = "파리"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "activity" ]
+semantic = [ "activity",]
 
 [definitions]
 en = "work, create, take action on"

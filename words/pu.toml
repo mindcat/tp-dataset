@@ -1,12 +1,13 @@
 lemma = "pu"
-sitelenpona = [ "󱥕" ]
+sitelenpona = [ "\U000f1955",]
 
-origin.iso = "CN"
-origin.word = "樸"
+[origin]
+iso = "CN"
+word = "樸"
 
 [script]
 kanata = "ᐴ"
-anku = ""
+anku = "푸"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "activity" ]
+semantic = [ "activity",]
 
 [definitions]
 en = "to interact with Toki Pona: The Language of Good by Sonja Lang"

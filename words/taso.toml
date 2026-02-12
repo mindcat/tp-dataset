@@ -1,12 +1,13 @@
 lemma = "taso"
-sitelenpona = [ "󱥨" ]
+sitelenpona = [ "\U000f1968",]
 
-origin.iso = "PG"
-origin.word = "tasol"
+[origin]
+iso = "PG"
+word = "tasol"
 
 [script]
 kanata = "ᑕᓱ"
-anku = ""
+anku = "타소"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "connection" ]
+semantic = [ "connection",]
 
 [definitions]
 en = "only, exclusively; but, however"

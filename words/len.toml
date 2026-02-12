@@ -1,12 +1,13 @@
 lemma = "len"
-sitelenpona = [ "󱤥" ]
+sitelenpona = [ "\U000f1925",]
 
-origin.iso = "CA"
-origin.word = "linge"
+[origin]
+iso = "CA"
+word = "linge"
 
 [script]
 kanata = "ᓓᓐ"
-anku = ""
+anku = "렌"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "necessities" ]
+semantic = [ "necessities",]
 
 [definitions]
 en = "cloth, fabric; hidden, private"

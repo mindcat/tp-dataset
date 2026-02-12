@@ -1,12 +1,13 @@
 lemma = "ijo"
-sitelenpona = [ "󱤌" ]
+sitelenpona = [ "\U000f190c",]
 
-origin.iso = "SP"
-origin.word = "io"
+[origin]
+iso = "SP"
+word = "io"
 
 [script]
 kanata = "ᐃᔪ"
-anku = ""
+anku = "이요"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "things" ]
+semantic = [ "things",]
 
 [definitions]
 en = "thing, object, matter"

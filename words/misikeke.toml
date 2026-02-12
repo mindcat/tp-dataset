@@ -1,12 +1,13 @@
 lemma = "misikeke"
-sitelenpona = [ "󱦇" ]
+sitelenpona = [ "\U000f1987",]
 
-origin.iso = ""
-origin.word = "ᒪᔥᑭᑭ"
+[origin]
+iso = ""
+word = "ᒪᔥᑭᑭ"
 
 [script]
 kanata = "ᒥᓯᑫᑫ"
-anku = ""
+anku = "미시게게"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "necessities" ]
+semantic = [ "necessities",]
 
 [definitions]
 en = "medication, medical practice"

@@ -1,12 +1,13 @@
 lemma = "olin"
-sitelenpona = [ "󱥅" ]
+sitelenpona = [ "\U000f1945",]
 
-origin.iso = "YU"
-origin.word = "волим"
+[origin]
+iso = "YU"
+word = "волим"
 
 [script]
 kanata = "ᐅᓕᓐ"
-anku = ""
+anku = "오린"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "ideas" ]
+semantic = [ "ideas",]
 
 [definitions]
 en = "love, bond, compassion, respect"

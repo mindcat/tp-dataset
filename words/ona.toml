@@ -1,12 +1,13 @@
 lemma = "ona"
-sitelenpona = [ "󱥆" ]
+sitelenpona = [ "\U000f1946",]
 
-origin.iso = "YU"
-origin.word = "она"
+[origin]
+iso = "YU"
+word = "она"
 
 [script]
 kanata = "ᐅᓇ"
-anku = ""
+anku = "오나"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "people" ]
+semantic = [ "people",]
 
 [definitions]
 en = "(3rd-person) he, she, it, they, …"

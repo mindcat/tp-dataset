@@ -1,12 +1,13 @@
 lemma = "jo"
-sitelenpona = [ "󱤓" ]
+sitelenpona = [ "\U000f1913",]
 
-origin.iso = "CN"
-origin.word = "有"
+[origin]
+iso = "CN"
+word = "有"
 
 [script]
 kanata = "ᔪ"
-anku = ""
+anku = "요"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "activity" ]
+semantic = [ "activity",]
 
 [definitions]
 en = "have, hold, carry, contain"

@@ -1,12 +1,13 @@
 lemma = "mani"
-sitelenpona = [ "󱤲" ]
+sitelenpona = [ "\U000f1932",]
 
-origin.iso = "US"
-origin.word = "money"
+[origin]
+iso = "US"
+word = "money"
 
 [script]
 kanata = "ᒪᓂ"
-anku = ""
+anku = "마니"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "necessities" ]
+semantic = [ "necessities",]
 
 [definitions]
 en = "money, currency; valuables"

@@ -1,12 +1,13 @@
 lemma = "ilo"
-sitelenpona = [ "󱤎" ]
+sitelenpona = [ "\U000f190e",]
 
-origin.iso = "DE"
-origin.word = "-el"
+[origin]
+iso = "DE"
+word = "-el"
 
 [script]
 kanata = "ᐃᓗ"
-anku = ""
+anku = "이로"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "things" ]
+semantic = [ "things",]
 
 [definitions]
 en = "tool, machine, device, instrument"

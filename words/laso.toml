@@ -1,12 +1,13 @@
 lemma = "laso"
-sitelenpona = [ "󱤣" ]
+sitelenpona = [ "\U000f1923",]
 
-origin.iso = "GB"
-origin.word = "glas"
+[origin]
+iso = "GB"
+word = "glas"
 
 [script]
 kanata = "ᓚᓱ"
-anku = ""
+anku = "라소"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "sight" ]
+semantic = [ "sight",]
 
 [definitions]
 en = "blue, green, turquoise, indigo"

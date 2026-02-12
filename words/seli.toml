@@ -1,12 +1,13 @@
 lemma = "seli"
-sitelenpona = [ "󱥗" ]
+sitelenpona = [ "\U000f1957",]
 
-origin.iso = "GE"
-origin.word = "ცხელი"
+[origin]
+iso = "GE"
+word = "ცხელი"
 
 [script]
 kanata = "ᓭᓕ"
-anku = ""
+anku = "세리"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "elements" ]
+semantic = [ "elements",]
 
 [definitions]
 en = "hot, warm; heat, fire; burn"

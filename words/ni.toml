@@ -1,12 +1,13 @@
 lemma = "ni"
-sitelenpona = [ "󱥁" ]
+sitelenpona = [ "\U000f1941",]
 
-origin.iso = "HK"
-origin.word = "呢"
+[origin]
+iso = "HK"
+word = "呢"
 
 [script]
 kanata = "ᓂ"
-anku = ""
+anku = "니"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "locating" ]
+semantic = [ "locating",]
 
 [definitions]
 en = "this, that, these, those"

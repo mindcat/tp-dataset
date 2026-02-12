@@ -1,12 +1,13 @@
 lemma = "sitelen"
-sitelenpona = [ "󱥠" ]
+sitelenpona = [ "\U000f1960",]
 
-origin.iso = "NL"
-origin.word = "schilderen"
+[origin]
+iso = "NL"
+word = "schilderen"
 
 [script]
 kanata = "ᓯᑌᓓᓐ"
-anku = ""
+anku = "시테렌"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "sight", "activity" ]
+semantic = [ "sight", "activity",]
 
 [definitions]
 en = "image, picture, symbol, writing"

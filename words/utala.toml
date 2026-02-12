@@ -1,12 +1,13 @@
 lemma = "utala"
-sitelenpona = [ "󱥱" ]
+sitelenpona = [ "\U000f1971",]
 
-origin.iso = "YU"
-origin.word = "ударати"
+[origin]
+iso = "YU"
+word = "ударати"
 
 [script]
 kanata = "ᐆᑕᓚ"
-anku = ""
+anku = "우타라"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "ideas", "activity" ]
+semantic = [ "ideas", "activity",]
 
 [definitions]
 en = "fight, compete, battle; challenge"

@@ -1,12 +1,13 @@
 lemma = "kule"
-sitelenpona = [ "󱤞" ]
+sitelenpona = [ "\U000f191e",]
 
-origin.iso = "CA"
-origin.word = "couleur"
+[origin]
+iso = "CA"
+word = "couleur"
 
 [script]
 kanata = "ᑰᓓ"
-anku = ""
+anku = "구레"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "sight" ]
+semantic = [ "sight",]
 
 [definitions]
 en = "color; aspect of sense, timbre, pitch, flavor, texture; queer"

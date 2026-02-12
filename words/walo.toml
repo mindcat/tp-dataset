@@ -1,12 +1,13 @@
 lemma = "walo"
-sitelenpona = [ "󱥲" ]
+sitelenpona = [ "\U000f1972",]
 
-origin.iso = "FI"
-origin.word = "valko"
+[origin]
+iso = "FI"
+word = "valko"
 
 [script]
 kanata = "ᕙᓗ"
-anku = ""
+anku = "와로"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "sight" ]
+semantic = [ "sight",]
 
 [definitions]
 en = "white; light-colored, bright color"

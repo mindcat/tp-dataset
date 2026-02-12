@@ -1,12 +1,13 @@
 lemma = "pimeja"
-sitelenpona = [ "󱥏" ]
+sitelenpona = [ "\U000f194f",]
 
-origin.iso = "FI"
-origin.word = "pimeä"
+[origin]
+iso = "FI"
+word = "pimeä"
 
 [script]
 kanata = "ᐱᒣᔭ"
-anku = ""
+anku = "피메야"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "sight" ]
+semantic = [ "sight",]
 
 [definitions]
 en = "black; dark, unlit; dark color"

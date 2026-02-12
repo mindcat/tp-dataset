@@ -1,12 +1,13 @@
 lemma = "moli"
-sitelenpona = [ "󱤷" ]
+sitelenpona = [ "\U000f1937",]
 
-origin.iso = "CA"
-origin.word = "mourir"
+[origin]
+iso = "CA"
+word = "mourir"
 
 [script]
 kanata = "ᒧᓕ"
-anku = ""
+anku = "모리"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "ideas" ]
+semantic = [ "ideas",]
 
 [definitions]
 en = "death, dead, dying; kill, murder"

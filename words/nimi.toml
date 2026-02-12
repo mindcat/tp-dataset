@@ -1,12 +1,13 @@
 lemma = "nimi"
-sitelenpona = [ "󱥂" ]
+sitelenpona = [ "\U000f1942",]
 
-origin.iso = "FI"
-origin.word = "nimi"
+[origin]
+iso = "FI"
+word = "nimi"
 
 [script]
 kanata = "ᓂᒥ"
-anku = ""
+anku = "니미"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "ideas" ]
+semantic = [ "ideas",]
 
 [definitions]
 en = "word, name"

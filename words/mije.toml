@@ -1,12 +1,13 @@
 lemma = "mije"
-sitelenpona = [ "󱤵" ]
+sitelenpona = [ "\U000f1935",]
 
-origin.iso = "FI"
-origin.word = "mies"
+[origin]
+iso = "FI"
+word = "mies"
 
 [script]
 kanata = "ᒥᔦ"
-anku = ""
+anku = "미예"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "people" ]
+semantic = [ "people",]
 
 [definitions]
 en = "male, masculine"

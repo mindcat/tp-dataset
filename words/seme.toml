@@ -1,12 +1,13 @@
 lemma = "seme"
-sitelenpona = [ "󱥙" ]
+sitelenpona = [ "\U000f1959",]
 
-origin.iso = "CN"
-origin.word = "什麼"
+[origin]
+iso = "CN"
+word = "什麼"
 
 [script]
 kanata = "ᓭᒣ"
-anku = ""
+anku = "세메"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "connection" ]
+semantic = [ "connection",]
 
 [definitions]
 en = "(question marker); what, which"

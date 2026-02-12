@@ -1,8 +1,9 @@
 lemma = "jan"
-sitelenpona = [ "󱤑" ]
+sitelenpona = [ "\U000f1911",]
 
-origin.iso = "HK"
-origin.word = "人"
+[origin]
+iso = "HK"
+word = "人"
 
 [script]
 kanata = "ᔭᓐ"
@@ -15,7 +16,7 @@ tewanakali = "यान"
 kijes = "ያን"
 
 [categories]
-semantic = [ "people" ]
+semantic = [ "people",]
 
 [definitions]
 en = "person, somebody"

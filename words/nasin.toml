@@ -1,12 +1,13 @@
 lemma = "nasin"
-sitelenpona = [ "󱤿" ]
+sitelenpona = [ "\U000f193f",]
 
-origin.iso = "YU"
-origin.word = "начин"
+[origin]
+iso = "YU"
+word = "начин"
 
 [script]
 kanata = "ᓇᓯᓐ"
-anku = ""
+anku = "나신"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "ideas" ]
+semantic = [ "ideas",]
 
 [definitions]
 en = "method, doctrine; road, way"

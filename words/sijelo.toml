@@ -1,12 +1,13 @@
 lemma = "sijelo"
-sitelenpona = [ "󱥛" ]
+sitelenpona = [ "\U000f195b",]
 
-origin.iso = "YU"
-origin.word = "тијело"
+[origin]
+iso = "YU"
+word = "тијело"
 
 [script]
 kanata = "ᓯᔦᓗ"
-anku = ""
+anku = "시예로"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "body" ]
+semantic = [ "body",]
 
 [definitions]
 en = "body, physical state, torso"

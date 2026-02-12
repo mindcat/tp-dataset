@@ -1,12 +1,13 @@
 lemma = "unpa"
-sitelenpona = [ "󱥯" ]
+sitelenpona = [ "\U000f196f",]
 
-origin.iso = ""
-origin.word = ""
+[origin]
+iso = ""
+word = ""
 
 [script]
 kanata = "ᐆᓐᐸ"
-anku = ""
+anku = "운파"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "activity" ]
+semantic = [ "activity",]
 
 [definitions]
 en = "sex, to have sexual relations"

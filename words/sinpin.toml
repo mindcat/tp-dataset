@@ -1,12 +1,13 @@
 lemma = "sinpin"
-sitelenpona = [ "󱥟" ]
+sitelenpona = [ "\U000f195f",]
 
-origin.iso = "HK"
-origin.word = "前邊"
+[origin]
+iso = "HK"
+word = "前邊"
 
 [script]
 kanata = "ᓯᓐᐱᓐ"
-anku = ""
+anku = "신핀"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "locating", "body" ]
+semantic = [ "locating", "body",]
 
 [definitions]
 en = "vertical surface, wall; front, face"

@@ -1,12 +1,13 @@
 lemma = "kute"
-sitelenpona = [ "󱤠" ]
+sitelenpona = [ "\U000f1920",]
 
-origin.iso = "CA"
-origin.word = "écouter"
+[origin]
+iso = "CA"
+word = "écouter"
 
 [script]
 kanata = "ᑰᑌ"
-anku = ""
+anku = "구테"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "body" ]
+semantic = [ "body",]
 
 [definitions]
 en = "ear; hear, listen"

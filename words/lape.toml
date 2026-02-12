@@ -1,12 +1,13 @@
 lemma = "lape"
-sitelenpona = [ "󱤢" ]
+sitelenpona = [ "\U000f1922",]
 
-origin.iso = "NL"
-origin.word = "slapen"
+[origin]
+iso = "NL"
+word = "slapen"
 
 [script]
 kanata = "ᓚᐯ"
-anku = ""
+anku = "라페"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "activity" ]
+semantic = [ "activity",]
 
 [definitions]
 en = "sleep, rest"

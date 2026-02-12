@@ -1,12 +1,13 @@
 lemma = "lete"
-sitelenpona = [ "󱤦" ]
+sitelenpona = [ "\U000f1926",]
 
-origin.iso = "CA"
-origin.word = "frette"
+[origin]
+iso = "CA"
+word = "frette"
 
 [script]
 kanata = "ᓓᑌ"
-anku = ""
+anku = "레테"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "elements" ]
+semantic = [ "elements",]
 
 [definitions]
 en = "cold, cool, frozen; raw"

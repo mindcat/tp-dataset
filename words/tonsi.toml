@@ -1,12 +1,13 @@
 lemma = "tonsi"
-sitelenpona = [ "󱥾" ]
+sitelenpona = [ "\U000f197e",]
 
-origin.iso = "CN"
-origin.word = "同志"
+[origin]
+iso = "CN"
+word = "同志"
 
 [script]
 kanata = "ᑐᓐᓯ"
-anku = ""
+anku = "톤시"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "people" ]
+semantic = [ "people",]
 
 [definitions]
 en = "nonbinary; transgender"

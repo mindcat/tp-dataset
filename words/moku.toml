@@ -1,12 +1,13 @@
 lemma = "moku"
-sitelenpona = [ "󱤶" ]
+sitelenpona = [ "\U000f1936",]
 
-origin.iso = "JP"
-origin.word = "モグモグ"
+[origin]
+iso = "JP"
+word = "モグモグ"
 
 [script]
 kanata = "ᒧᑰ"
-anku = ""
+anku = "모구"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "necessities" ]
+semantic = [ "necessities",]
 
 [definitions]
 en = "eat, drink; food"

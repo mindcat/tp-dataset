@@ -1,12 +1,13 @@
 lemma = "nanpa"
-sitelenpona = [ "󱤽" ]
+sitelenpona = [ "\U000f193d",]
 
-origin.iso = "PG"
-origin.word = "namba"
+[origin]
+iso = "PG"
+word = "namba"
 
 [script]
 kanata = "ᓇᓐᐸ"
-anku = ""
+anku = "난파"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "counting" ]
+semantic = [ "counting",]
 
 [definitions]
 en = "number, -th"

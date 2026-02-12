@@ -1,12 +1,13 @@
 lemma = "lukin"
-sitelenpona = [ "󱤮" ]
+sitelenpona = [ "\U000f192e",]
 
-origin.iso = "PG"
-origin.word = "lukim"
+[origin]
+iso = "PG"
+word = "lukim"
 
 [script]
 kanata = "ᓘᑭᓐ"
-anku = ""
+anku = "루긴"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "body", "sight" ]
+semantic = [ "body", "sight",]
 
 [definitions]
 en = "look, see, examine; eye; try"

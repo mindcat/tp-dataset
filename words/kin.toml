@@ -1,12 +1,13 @@
 lemma = "kin"
-sitelenpona = [ "󱥹" ]
+sitelenpona = [ "\U000f1979",]
 
-origin.iso = "FI"
-origin.word = "-kin"
+[origin]
+iso = "FI"
+word = "-kin"
 
 [script]
 kanata = "ᑭᓐ"
-anku = ""
+anku = "긴"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "connection" ]
+semantic = [ "connection",]
 
 [definitions]
 en = "too, also"

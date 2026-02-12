@@ -1,12 +1,13 @@
 lemma = "ken"
-sitelenpona = [ "󱤘" ]
+sitelenpona = [ "\U000f1918",]
 
-origin.iso = "PG"
-origin.word = "ken"
+[origin]
+iso = "PG"
+word = "ken"
 
 [script]
 kanata = "ᑫᓐ"
-anku = ""
+anku = "겐"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "state" ]
+semantic = [ "state",]
 
 [definitions]
 en = "can, may, ability; possible; allow, enable; to be able to"

@@ -1,12 +1,13 @@
 lemma = "pipi"
-sitelenpona = [ "󱥑" ]
+sitelenpona = [ "\U000f1951",]
 
-origin.iso = "CA"
-origin.word = "bibitte"
+[origin]
+iso = "CA"
+word = "bibitte"
 
 [script]
 kanata = "ᐱᐱ"
-anku = ""
+anku = "피피"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "critters" ]
+semantic = [ "critters",]
 
 [definitions]
 en = "insect, bug, spider, tiny crawling creature"

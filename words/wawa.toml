@@ -1,12 +1,13 @@
 lemma = "wawa"
-sitelenpona = [ "󱥵" ]
+sitelenpona = [ "\U000f1975",]
 
-origin.iso = "FI"
-origin.word = "vahva"
+[origin]
+iso = "FI"
+word = "vahva"
 
 [script]
 kanata = "ᕙᕙ"
-anku = ""
+anku = "와와"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "ideas" ]
+semantic = [ "ideas",]
 
 [definitions]
 en = "amazing; power, energy; intense"

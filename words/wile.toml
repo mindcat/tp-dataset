@@ -1,12 +1,13 @@
 lemma = "wile"
-sitelenpona = [ "󱥷" ]
+sitelenpona = [ "\U000f1977",]
 
-origin.iso = "NL"
-origin.word = "willen"
+[origin]
+iso = "NL"
+word = "willen"
 
 [script]
 kanata = "ᕕᓓ"
-anku = ""
+anku = "위레"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "necessities", "ideas" ]
+semantic = [ "necessities", "ideas",]
 
 [definitions]
 en = "want, must, need"

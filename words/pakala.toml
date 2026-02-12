@@ -1,12 +1,13 @@
 lemma = "pakala"
-sitelenpona = [ "󱥈" ]
+sitelenpona = [ "\U000f1948",]
 
-origin.iso = "PG"
-origin.word = "bagarap"
+[origin]
+iso = "PG"
+word = "bagarap"
 
 [script]
 kanata = "ᐸᑲᓚ"
-anku = ""
+anku = "파가라"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "ideas" ]
+semantic = [ "ideas",]
 
 [definitions]
 en = "damage, break, harm; mistake"

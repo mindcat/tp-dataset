@@ -1,12 +1,13 @@
 lemma = "telo"
-sitelenpona = [ "󱥪" ]
+sitelenpona = [ "\U000f196a",]
 
-origin.iso = ""
-origin.word = "de l'eau"
+[origin]
+iso = ""
+word = "de l'eau"
 
 [script]
 kanata = "ᑌᓗ"
-anku = ""
+anku = "테로"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "elements" ]
+semantic = [ "elements",]
 
 [definitions]
 en = "water, liquids, drinks; to wash, to clean"

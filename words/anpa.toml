@@ -1,12 +1,13 @@
 lemma = "anpa"
-sitelenpona = [ "󱤅" ]
+sitelenpona = [ "\U000f1905",]
 
-origin.iso = "CA"
-origin.word = "en bas"
+[origin]
+iso = "CA"
+word = "en bas"
 
 [script]
 kanata = "ᐊᓐᐸ"
-anku = ""
+anku = "안파"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "locating" ]
+semantic = [ "locating",]
 
 [definitions]
 en = "bottom, underside; below; defeat, humble, lowly"

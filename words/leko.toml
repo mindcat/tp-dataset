@@ -1,12 +1,13 @@
 lemma = "leko"
-sitelenpona = [ "󱥼" ]
+sitelenpona = [ "\U000f197c",]
 
-origin.iso = "DK"
-origin.word = "leg godt"
+[origin]
+iso = "DK"
+word = "leg godt"
 
 [script]
 kanata = "ᓓᑯ"
-anku = ""
+anku = "레고"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "things" ]
+semantic = [ "things",]
 
 [definitions]
 en = "square, cube, block, brick"

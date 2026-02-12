@@ -1,12 +1,13 @@
 lemma = "poki"
-sitelenpona = [ "󱥓" ]
+sitelenpona = [ "\U000f1953",]
 
-origin.iso = "PG"
-origin.word = "bokis"
+[origin]
+iso = "PG"
+word = "bokis"
 
 [script]
 kanata = "ᐳᑭ"
-anku = ""
+anku = "포기"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "things", "locating" ]
+semantic = [ "things", "locating",]
 
 [definitions]
 en = "container, bag, bowl, box, cup, category"

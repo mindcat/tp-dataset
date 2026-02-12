@@ -1,12 +1,13 @@
 lemma = "soweli"
-sitelenpona = [ "󱥢" ]
+sitelenpona = [ "\U000f1962",]
 
-origin.iso = "GE"
-origin.word = "ცხოველი"
+[origin]
+iso = "GE"
+word = "ცხოველი"
 
 [script]
 kanata = "ᓱᕓᓕ"
-anku = ""
+anku = "소웨리"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "critters" ]
+semantic = [ "critters",]
 
 [definitions]
 en = "land animal, beast"

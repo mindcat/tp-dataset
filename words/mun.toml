@@ -1,12 +1,13 @@
 lemma = "mun"
-sitelenpona = [ "󱤺" ]
+sitelenpona = [ "\U000f193a",]
 
-origin.iso = "US"
-origin.word = "moon"
+[origin]
+iso = "US"
+word = "moon"
 
 [script]
 kanata = "ᒨᓐ"
-anku = ""
+anku = "문"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "elements" ]
+semantic = [ "elements",]
 
 [definitions]
 en = "moon, night sky object, star"

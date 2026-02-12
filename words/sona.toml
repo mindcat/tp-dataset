@@ -1,12 +1,13 @@
 lemma = "sona"
-sitelenpona = [ "󱥡" ]
+sitelenpona = [ "\U000f1961",]
 
-origin.iso = "GE"
-origin.word = "ცოდნა"
+[origin]
+iso = "GE"
+word = "ცოდნა"
 
 [script]
 kanata = "ᓱᓇ"
-anku = ""
+anku = "소나"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "ideas" ]
+semantic = [ "ideas",]
 
 [definitions]
 en = "knowledge, information; know; wisdom, skill"

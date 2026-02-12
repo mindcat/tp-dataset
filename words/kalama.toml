@@ -1,12 +1,13 @@
 lemma = "kalama"
-sitelenpona = [ "󱤕" ]
+sitelenpona = [ "\U000f1915",]
 
-origin.iso = "YU"
-origin.word = "галама"
+[origin]
+iso = "YU"
+word = "галама"
 
 [script]
 kanata = "ᑲᓚᒪ"
-anku = ""
+anku = "가라마"
 sewijen = ""
 alapi = ""
 kililisa = ""
@@ -15,7 +16,7 @@ tewanakali = ""
 kijes = ""
 
 [categories]
-semantic = [ "activity" ]
+semantic = [ "activity",]
 
 [definitions]
 en = "to make noise; sound"
