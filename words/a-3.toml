@@ -1,0 +1,22 @@
+lemma = "lanpan"
+sitelenpona = [ "󱦅",]
+
+[origin]
+iso = "GR"
+word = "λαμβάνω"
+
+[script]
+kanata = "ᐊ"
+anku = "아"
+sewijen = ""
+alapi = ""
+kililisa = ""
+elina = ""
+tewanakali = ""
+kijes = ""
+
+[categories]
+semantic = [ "activity",]
+
+[definitions]
+en = "take, seize, steal"

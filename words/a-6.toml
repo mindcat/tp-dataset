@@ -1,0 +1,22 @@
+lemma = "nimisin"
+sitelenpona = [ "",]
+
+[origin]
+iso = "TP"
+word = "nimi sin"
+
+[script]
+kanata = "ᐊ"
+anku = "아"
+sewijen = ""
+alapi = ""
+kililisa = ""
+elina = ""
+tewanakali = ""
+kijes = ""
+
+[categories]
+semantic = [ "ideas",]
+
+[definitions]
+en = "any non-pu word; any new word; any joke word"

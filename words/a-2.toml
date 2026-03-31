@@ -1,0 +1,22 @@
+lemma = "epiku"
+sitelenpona = [ "󱦃",]
+
+[origin]
+iso = "FR"
+word = "épique"
+
+[script]
+kanata = "ᐊ"
+anku = "아"
+sewijen = ""
+alapi = ""
+kililisa = ""
+elina = ""
+tewanakali = ""
+kijes = ""
+
+[categories]
+semantic = [ "descriptions",]
+
+[definitions]
+en = "epic, cool, awesome, amazing"

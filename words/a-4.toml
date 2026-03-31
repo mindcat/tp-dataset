@@ -1,0 +1,22 @@
+lemma = "linluwi"
+sitelenpona = [ "",]
+
+[origin]
+iso = "GB"
+word = "rhyngrwyd"
+
+[script]
+kanata = "ᐊ"
+anku = "아"
+sewijen = ""
+alapi = ""
+kililisa = ""
+elina = ""
+tewanakali = ""
+kijes = ""
+
+[categories]
+semantic = [ "things",]
+
+[definitions]
+en = "bonded things which are stronger through their bonds e.g. network, internet, connection; weave, braid, interlace"
